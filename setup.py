@@ -9,4 +9,5 @@ setup(
     author_email="randy.phoa@ibm.com",
     license="MIT",
     packages=["prophet_wrapper"],
+    # install_requires=["Django >= 1.1.1", "pytest",],
 )
