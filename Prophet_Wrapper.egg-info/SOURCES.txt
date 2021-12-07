@@ -1,8 +1,0 @@
-README.md
-setup.py
-prophet_wrapper/__init__.py
-prophet_wrapper/prophet_wrapper.py
-prophet_wrapper.egg-info/PKG-INFO
-prophet_wrapper.egg-info/SOURCES.txt
-prophet_wrapper.egg-info/dependency_links.txt
-prophet_wrapper.egg-info/top_level.txt
