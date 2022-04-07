@@ -1,3 +1,5 @@
+# Please refer to [https://randyphoa.com/deploying-prophet-model-with-custom-environments-on-ibm-watson-machine-learning-46dfb4d8a2ac](https://randyphoa.com/deploying-prophet-model-with-custom-environments-on-ibm-watson-machine-learning-46dfb4d8a2ac) for an updated approach.
+
 # prophet-wrapper
 
 python -m pip install --upgrade build
